@@ -22,15 +22,23 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 
 Project|Link|Photo|
 :-----------:|:------------:|-------------------|
-| My cv | https://katytrop.github.io/cv/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/shelter.jpg "Title")|
-| Audioplayer | https://katytrop.github.io/audioplayer/ | текст |
-| Movie API | https://katytrop.github.io/movie/ | текст |
-| Memory Game | https://katytrop.github.io/memory-game/ | текст |
-| Photographer | https://katytrop.github.io/photographer/ | текст |
-| Pulse | https://katytrop.github.io/pulse/ | текст |
-| Shelter | https://katytrop.github.io/shelter/ | текст |
-| Horse-club | https://katytrop.github.io/horse-club/ | текст |
-| Sub-time | https://katytrop.github.io/sub-time/ | текст |
+| My cv | https://katytrop.github.io/cv/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/meta.jpg "Shelter")|
+
+| Audioplayer | https://katytrop.github.io/audioplayer/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/audio.jpg "Audioplayer") |
+
+| Movie API | https://katytrop.github.io/movie/ | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API") |
+
+| Memory Game | https://katytrop.github.io/memory-game/ | ![alt text](https://github.com/Katytrop/memory-game/blob/gh-pages/assets/img/game.jpg "Game") |
+
+| Photographer | https://katytrop.github.io/photographer/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/photogr.jpg "Photographer") |
+
+| Pulse | https://katytrop.github.io/pulse/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/pulse.jpg "Pulse") |
+
+| Shelter | https://katytrop.github.io/shelter/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/shelter.jpg "Shelter") |
+
+| Horse-club | https://katytrop.github.io/horse-club/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/horse-club.jpg "Horse-club") |
+
+| Sub-time | https://katytrop.github.io/sub-time/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/sup-time.jpg "Sub-time") |
 
 ## **Contacts** ##
 **Location:** Russia\
