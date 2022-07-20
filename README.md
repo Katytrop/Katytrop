@@ -6,7 +6,7 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 
 ## **My Skills** ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Katytrop=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katytrop)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
 ![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
