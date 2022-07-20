@@ -13,22 +13,16 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=Sass&logoColor=pink)
 <!-- ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan) -->
-
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
 ![](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=blue)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-
-
 ## **My Projects** ##
 
 Project|Link|Photo|
 :-----------:|:------------:|-------------------|
-| My cv | https://katytrop.github.io/cv/ | текст |
+| My cv | https://katytrop.github.io/cv/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/shelter.jpg "Title")|
 | Audioplayer | https://katytrop.github.io/audioplayer/ | текст |
 | Movie API | https://katytrop.github.io/movie/ | текст |
 | Memory Game | https://katytrop.github.io/memory-game/ | текст |
