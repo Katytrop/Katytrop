@@ -50,27 +50,22 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 
 ## :fire: **My Stats** ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<div display=flex align="center">
-  </br>
-  <img height="170em" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=katytrop&layout=compact"/>
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=katytrop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :card_index_dividers: **My Projects** ##
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| My cv https://katytrop.github.io/cv/ | Photographer https://katytrop.github.io/photographer/ |
+| My cv  📑 <br> https://katytrop.github.io/cv/ | Photographer 📸  <br> https://katytrop.github.io/photographer/ |
 | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/meta.jpg "Shelter") | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/photogr.jpg "Photographer")  |
-| Pulse https://katytrop.github.io/pulse/ | Shelter https://katytrop.github.io/shelter/ |
+| Pulse ⌚ <br> https://katytrop.github.io/pulse/ | Shelter 🐶 <br> https://katytrop.github.io/shelter/ |
 | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/pulse.jpg "Pulse") | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/shelter.jpg "Shelter") |
-| Horse-club https://katytrop.github.io/horse-club/ <br> site in progress...  | Sub-time https://sup-time.ru/ |
+| Horse-club 🐎 <br> https://katytrop.github.io/horse-club/ <br> site in progress...  | Sub-time 🛶 <br> https://sup-time.ru/ |
 | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/horse-club.jpg "Horse-club")  | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/sup-time.jpg "Sub-time")  |
-| Audioplayer https://katytrop.github.io/audioplayer/  | Movie API https://katytrop.github.io/movie/ |
+| Audioplayer 🎧 <br> https://katytrop.github.io/audioplayer/  | Movie API 📽️ <br> https://katytrop.github.io/movie/ |
 | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/audio.jpg "Audioplayer") | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API")  |
-| Memory Game https://katytrop.github.io/memory-game/ | ![alt text](https://github.com/Katytrop/memory-game/blob/gh-pages/assets/img/game.jpg "Game") |
-
+| Memory Game 🀄 <br> https://katytrop.github.io/memory-game/ |  |
+|![alt text](https://github.com/Katytrop/memory-game/blob/gh-pages/assets/img/game.jpg "Game") |  |
 
 ## 	:iphone: **Contacts** ##
 **Location:** Russia\
