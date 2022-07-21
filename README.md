@@ -14,12 +14,12 @@
   </a>
 </div>
 
-## **About me** ##
+## :sassy_woman: **About me** ##
 I am a Junior Front-End Developer from Russia.
 
 My goal is becoming a professional Frontend developer. I believe, that my ability to learn and to gain new skills will lead me to this. My strengths are persistence and quick learning. I have good communication skills, so I work great in a team. I continue to develop in my field. I continue to work on myself and on the quality of the site that I make.
 
-## :hammer_and_wrench: **My Skills** ##
+## :computer: **My Skills** ##
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
-## :hammer_and_wrench: **Skills in progress...** ##
+## :hourglass_flowing_sand: **Skills in progress...** ##
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
@@ -44,11 +44,11 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+## :fire: **My Stats** ##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katytrop&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katytrop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## **My Projects** ##
+## :card_index_dividers: **My Projects** ##
 
 Project|Link|Photo|
 :-----------:|:------------:|-------------------|
@@ -62,7 +62,7 @@ Project|Link|Photo|
 | Movie API | https://katytrop.github.io/movie/ | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API") |
 | Memory Game | https://katytrop.github.io/memory-game/ | ![alt text](https://github.com/Katytrop/memory-game/blob/gh-pages/assets/img/game.jpg "Game") |
 
-## **Contacts** ##
+## 	:iphone: **Contacts** ##
 **Location:** Russia\
 **Phone:** +7 915 917 1389\
 **Email:** etropkina@yandex.ru\
