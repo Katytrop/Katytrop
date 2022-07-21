@@ -1,4 +1,4 @@
-<div align="center">##Hi there, I'm Katy </div>
+<h1 align="center">Hi there, I'm Katy </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
 </div>
