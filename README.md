@@ -49,7 +49,7 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 <br>
 
 ## :fire: **My Stats** ##
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katytrop&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div display=flex align="center">
   </br>
