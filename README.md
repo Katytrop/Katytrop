@@ -62,8 +62,8 @@ Project|Link|Photo|
 | Photographer | https://katytrop.github.io/photographer/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/photogr.jpg "Photographer") |
 | Pulse | https://katytrop.github.io/pulse/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/pulse.jpg "Pulse") |
 | Shelter | https://katytrop.github.io/shelter/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/shelter.jpg "Shelter") |
-| Horse-club | https://katytrop.github.io/horse-club/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/horse-club.jpg "Horse-club") |
-| Sub-time | https://katytrop.github.io/sub-time/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/sup-time.jpg "Sub-time") |
+| Horse-club | https://katytrop.github.io/horse-club/ <br> site in progress... | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/horse-club.jpg "Horse-club") |
+| Sub-time | https://sup-time.ru/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/sup-time.jpg "Sub-time") |
 | Audioplayer | https://katytrop.github.io/audioplayer/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/audio.jpg "Audioplayer") |
 | Movie API | https://katytrop.github.io/movie/ | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API") |
 | Memory Game | https://katytrop.github.io/memory-game/ | ![alt text](https://github.com/Katytrop/memory-game/blob/gh-pages/assets/img/game.jpg "Game") |
