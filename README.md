@@ -1,4 +1,15 @@
 ### Hi there, i'm Katy 👋
+<div id="badges" align="center">
+  <a href="https://discord.com/users/920202859969126460/">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Katytrop">
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://wa.me/79159171389">
+    <img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## **About me** ##
 
