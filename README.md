@@ -29,8 +29,12 @@ Project|Link|Photo|
 | Audioplayer | https://katytrop.github.io/audioplayer/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/audio.jpg "Audioplayer") |
 | Movie API | https://katytrop.github.io/movie/ | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API") |
 | Memory Game | https://katytrop.github.io/memory-game/ | ![alt text](https://github.com/Katytrop/memory-game/blob/gh-pages/assets/img/game.jpg "Game") |
+
 ## **Contacts** ##
 **Location:** Russia\
 **Phone:** +7 915 917 1389\
 **Email:** etropkina@yandex.ru\
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+</div>
