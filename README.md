@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
   <a href="https://t.me/Katytrop">
-    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
   <a href="https://wa.me/79159171389">
-    <img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="whatsappe"/>
+    <img src="https://img.shields.io/badge/WhatsApp-brighgreen?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="whatsappe"/>
   </a>
 </div>
 
