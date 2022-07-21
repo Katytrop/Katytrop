@@ -1,7 +1,7 @@
+<div align="center">Hi there, I'm Katy </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
 </div>
-<h1 align="center">Hi there, I'm Katy </h1>
 <div id="badges" align="center">
   <a href="https://discord.com/users/920202859969126460/">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
