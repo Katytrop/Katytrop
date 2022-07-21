@@ -1,4 +1,4 @@
-<div align="center">Hi there, I'm Katy </div>
+<div align="center">##Hi there, I'm Katy </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
 </div>
@@ -14,10 +14,12 @@
   </a>
 </div>
 
+
 ## :sassy_woman: **About me** ##
 I am a Junior Front-End Developer from Russia.
 
 My goal is becoming a professional Frontend developer. I believe, that my ability to learn and to gain new skills will lead me to this. My strengths are persistence and quick learning. I have good communication skills, so I work great in a team. I continue to develop in my field. I continue to work on myself and on the quality of the site that I make.
+
 
 ## :computer: **My Skills** ##
 
@@ -34,6 +36,7 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
+
 ## :hourglass_flowing_sand: **Skills in progress...** ##
 
 <div>
@@ -44,9 +47,11 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
 </div>
 
+
 ## :fire: **My Stats** ##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katytrop&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katytrop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## :card_index_dividers: **My Projects** ##
 
@@ -61,6 +66,7 @@ Project|Link|Photo|
 | Audioplayer | https://katytrop.github.io/audioplayer/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/audio.jpg "Audioplayer") |
 | Movie API | https://katytrop.github.io/movie/ | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API") |
 | Memory Game | https://katytrop.github.io/memory-game/ | ![alt text](https://github.com/Katytrop/memory-game/blob/gh-pages/assets/img/game.jpg "Game") |
+
 
 ## 	:iphone: **Contacts** ##
 **Location:** Russia\
