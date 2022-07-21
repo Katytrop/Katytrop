@@ -51,7 +51,10 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 ## :fire: **My Stats** ##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katytrop&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katytrop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div display=flex align="center">
+  </br>
+  <img height="170em" alt="Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=katytrop&layout=compact"/>
+</div>
 
 
 ## :card_index_dividers: **My Projects** ##
