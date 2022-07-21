@@ -1,4 +1,7 @@
-### Hi there, i'm Katy 👋
+<div id="header" align="center">
+  Hi there, i'm Katy 👋
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
+</div>
 <div id="badges" align="center">
   <a href="https://discord.com/users/920202859969126460/">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
