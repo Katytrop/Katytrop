@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://discord.com/users/920202859969126460/">
+  <a target="blank" href="https://discord.com/users/920202859969126460/">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
-  <a href="https://t.me/Katytrop">
+  <a target="blank" href="https://t.me/Katytrop">
     <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
-  <a href="https://wa.me/79159171389">
+  <a target="blank" href="https://wa.me/79159171389">
     <img src="https://img.shields.io/badge/WhatsApp-brighgreen?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="whatsappe"/>
   </a>
 </div>
