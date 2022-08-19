@@ -48,6 +48,11 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 </div>
 <br>
 
+## :computer: **Education** ##
+**RS School courses (November 2021-February 2022)** - JUNIOR Front-End Developer ✅ complete <br>
+**Udemy - Web development courses (2021)** ✅ complete <br>
+**Udemy - JavaScript + React (2022)** 👩‍🎓 in progress <br>
+
 ## :fire: **My Stats** ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=katytrop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
