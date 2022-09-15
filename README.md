@@ -65,9 +65,9 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/meta.jpg "Shelter") | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/photogr.jpg "Photographer")  |
 | Pulse ⌚ <br> https://katytrop.github.io/pulse/ | Shelter 🐶 <br> https://katytrop.github.io/shelter/ |
 | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/pulse.jpg "Pulse") | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/shelter.jpg "Shelter") |
-| Horse-club 🐎 <br> https://katytrop.github.io/horse-club/ <br> site in progress...  | Sub-time 🛶 <br> https://sup-time.ru/ |
+| Horse-club 🐎 site in progress... <br> https://katytrop.github.io/horse-club/  | Sub-time 🛶 <br> https://sup-time.ru/ |
 | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/horse-club.jpg "Horse-club")  | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/sup-time.jpg "Sub-time")  |
-| Food Menu 🥗 <br> https://katytrop.github.io/food/ <br> site in progress... | Movie API 📽️ <br> https://katytrop.github.io/movie/ |
+| Food Menu 🥗  only desktop <br> https://katytrop.github.io/food/ | Movie API 📽️ <br> https://katytrop.github.io/movie/ |
 | ![alt text](https://github.com/Katytrop/cv/blob/main/img/works/food.png "food") | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API")  |
 | Memory Game 🀄 <br> https://katytrop.github.io/memory-game/ | Audioplayer 🎧 <br> https://katytrop.github.io/audioplayer/ |
 |![alt text](https://github.com/Katytrop/memory-game/blob/gh-pages/assets/img/game.jpg "Game") | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/audio.jpg "Audioplayer") |
