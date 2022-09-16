@@ -69,7 +69,7 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 | Sub-time 🛶 <br> https://sup-time.ru/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/sup-time.jpg "Sub-time") |
 | Food Menu 🥗  only desktop <br> https://katytrop.github.io/food/ | ![alt text](https://github.com/Katytrop/cv/blob/main/img/works/food.png "food") |
 | Movie API 📽️ <br> https://katytrop.github.io/movie/ | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API") |
-| ToDo App | |
+| ToDo App 📊 <br> https://katytrop.github.io/todo/ | ![alt text](https://github.com/Katytrop/todo/blob/master/public/preview-mini.jpg "todo") |
 
 ## 	:iphone: **Contacts** ##
 **Location:** Russia\
