@@ -61,15 +61,15 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| My cv  📑 <br> https://katytrop.github.io/cv/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/meta.jpg "cv") |
-| Photographer 📸  <br> https://katytrop.github.io/photographer/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/photogr.jpg "Photographer") |
-| Pulse ⌚ <br> https://katytrop.github.io/pulse/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/pulse.jpg "Pulse") |
-| Shelter 🐶 <br> https://katytrop.github.io/shelter/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/shelter.jpg "Shelter") |
-| Horse-club 🐎 site in progress... <br> https://katytrop.github.io/horse-club/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/horse-club.jpg "Horse-club") |
-| Sub-time 🛶 <br> https://sup-time.ru/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/sup-time.jpg "Sub-time") |
+| My cv  📑 Adaptive <br> https://katytrop.github.io/cv/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/meta.jpg "cv") |
+| Photographer 📸 Adaptive <br> https://katytrop.github.io/photographer/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/photogr.jpg "Photographer") |
+| Pulse ⌚ <br> Adaptive https://katytrop.github.io/pulse/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/pulse.jpg "Pulse") |
+| Shelter 🐶 Adaptive <br> https://katytrop.github.io/shelter/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/shelter.jpg "Shelter") |
+| Sub-time 🛶 Adaptive <br>https://sup-time.ru/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/sup-time.jpg "Sub-time") |
 | Food Menu 🥗 Desktop <br> https://katytrop.github.io/food/ | ![alt text](https://github.com/Katytrop/cv/blob/main/img/works/food.png "food") |
 | Movie API 📽️ Desktop <br> https://katytrop.github.io/movie/ | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API") |
 | ToDo App 📊  Desktop <br> https://katytrop.github.io/todo/ | ![alt text](https://github.com/Katytrop/todo/blob/master/public/preview-mini.jpg "todo") |
+| Bike Shop 🚲 Adaptive <br> https://katytrop.github.io/bike-shop/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/bike-shop.jpg "Horse-club") |
 
 ## 	:iphone: **Contacts** ##
 **Location:** Russia\
