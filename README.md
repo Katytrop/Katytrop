@@ -59,22 +59,6 @@ My goal is becoming a professional Frontend developer. I believe, that my abilit
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=katytrop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## :card_index_dividers: **My Projects** ##
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| My cv  📑  <br> https://katytrop.github.io/cv/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/meta.jpg "cv") |
-| Sub-time 🛶 <br> Real site, native JS + Swiper <br> https://sup-time.ru/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/sup-time.jpg "Sub-time") |
-| furino  📑  <br>Native JS + Swiper, Cross-browser & adaptive website https://katytrop.github.io/furino/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/furino.jpg "furino") |
-| Food Menu 🥗 <br> Native JS, webpack, only Desktop <br> https://katytrop.github.io/food/ | ![alt text](https://github.com/Katytrop/cv/blob/main/img/works/food.png "food") |
-| Bike Shop 🚲 <br> Cross-browser & adaptive website <br> https://katytrop.github.io/bike-shop/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/bike-shop.jpg "Horse-club") |
-| Photographer 📸 <br> Native JS, adaptive website, animation <br> https://katytrop.github.io/photographer/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/photogr.jpg "Photographer") |
-| Pulse ⌚ <br> Jquery, adaptive website <br> https://katytrop.github.io/pulse/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/pulse.jpg "Pulse") |
-| Shelter 🐶 <br> Native JS, adaptive website <br> https://katytrop.github.io/shelter/ | ![alt text](https://github.com/Katytrop/cv/blob/gh-pages/img/works/shelter.jpg "Shelter") |
-| Movie API 📽️ <br> Native JS, API, Desktop <br> https://katytrop.github.io/movie/ | ![alt text](https://github.com/Katytrop/movie/blob/gh-pages/img/movie.jpg "Movie API") |
-| ToDo App 📊 <br> React, Desktop <br> https://katytrop.github.io/todo/ | ![alt text](https://github.com/Katytrop/todo/blob/master/public/preview-mini.jpg "todo") |
-
-
 ## 	:iphone: **Contacts** ##
 **Location:** Russia\
 **Phone:** +7 915 917 1389\
